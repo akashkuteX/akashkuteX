@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Vue and everything.**
 
-- 💬 Ask me about **React, Typescript, JavaScript.**
-
 - 💬 Ask me about anything [here](https://mail.google.com/mail/?view=cm&fs=1&to=kuteakash51@gmail.com&su=&body=), I'm happy to help.
 
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`,`.tsx`, `.html`, `.css`, `.scss` 
