@@ -1,4 +1,6 @@
-### 👋 Hi there! I'm Akash, a passionate frontend developer with expertise in React, TypeScript, and JavaScript. I love crafting engaging and user-friendly web experiences, bringing ideas to life through clean and efficient code.
+### 👋 Hi there! 
+
+I'm Akash, a passionate frontend developer with expertise in React, TypeScript, and JavaScript. I love crafting engaging and user-friendly web experiences, bringing ideas to life through clean and efficient code.
 
 💻 I enjoy working with modern frontend frameworks and libraries, with React being my go-to choice. Leveraging the power of TypeScript and JavaScript, I strive to create robust and scalable applications that deliver seamless user interactions.
 
