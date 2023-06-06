@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47revy6okhp9jb9epeo7vzl6n3t2lbmipcncg92fmo&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-- 🌱 I’m currently learning **Vue and everything.**
+- 🌱 Proficent in **React** and exploring **Vue**.
 
 - 💬 Ask me about anything [here](https://mail.google.com/mail/?view=cm&fs=1&to=kuteakash51@gmail.com&su=&body=), I'm happy to help.
 
