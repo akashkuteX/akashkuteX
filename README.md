@@ -1,7 +1,7 @@
 ![Header](data/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Akash Kute</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47revy6okhp9jb9epeo7vzl6n3t2lbmipcncg92fmo&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47revy6okhp9jb9epeo7vzl6n3t2lbmipcncg92fmo&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 - 🌱 Proficent in **React** and exploring **Vue**.
 
